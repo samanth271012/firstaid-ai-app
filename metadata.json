@@ -1,0 +1,6 @@
+{
+  "name": "FirstAid AI",
+  "description": "Calm, structured AI assistant for initial first-aid guidance and injury triage with multimodal text and image assessment.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
